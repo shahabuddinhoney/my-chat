@@ -17,4 +17,4 @@ datetime.datetime.now().strftime('%H:%M:%S,%Y-%M-%d")print(f"chatbot(at {time},{
 ['massage'].append(f"user:{massang}")users[username]
 ['massage'].append(f"chatbot:{massage}if massage.lower()=='hello prin("chatbot:hello! how can i help you
 python if __name__ == "__main__": while True: choice = input("1. Register\n2. Login\n3. Exit\nEnter your choice: ") if choice == '1': register() elif choice == '2': if login(): chat_system() elif choice == '3': print("Exiting the program. Goodbye!") break else: print("Invalid choice. Please try again.")
-app instl
+
